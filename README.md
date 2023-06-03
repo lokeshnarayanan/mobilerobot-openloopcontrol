@@ -11,7 +11,6 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 Use from robomaster import robot. 
-
 <br/>
 
 Step2:
@@ -131,7 +130,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)].
 
 Youtube link:[(https://youtu.be/ZvNojYerloY)]
 
